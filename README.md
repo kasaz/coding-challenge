@@ -10,7 +10,8 @@
   - title
   - price
   - sqm
-  - # bedrooms
+  - number of bedrooms
+  - number of bathrooms
 * Add filters for the search: per price, per sqm, per # of bedrooms… 
 * Bonus points!
   * Add a picture per listing
