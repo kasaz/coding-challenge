@@ -1,7 +1,7 @@
 # Coding challenge: Apartments search
 * Create a simple page to search for apartments. Here's one example of how it could look like (including bonus features):
 
-<div style='display: flex; flex: 1;'>
+<div style='display: flex; flex: 1; align-items: flex-start;'>
   <img src="https://user-images.githubusercontent.com/636075/70719197-d08fc300-1cf1-11ea-9b7c-c767f8d30abd.png" width="48">
   <img src="https://user-images.githubusercontent.com/636075/70719199-d1285980-1cf1-11ea-9377-9849bb7388ef.png" width="48">
 </div>
