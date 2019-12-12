@@ -1,6 +1,7 @@
 # Coding challenge: Apartments search
 * Create a simple page to search for apartments. Here's one example of how it could look like (including bonus features):
-
+![](https://user-images.githubusercontent.com/636075/70719197-d08fc300-1cf1-11ea-9b7c-c767f8d30abd.png)
+![](https://user-images.githubusercontent.com/636075/70719197-d08fc300-1cf1-11ea-9b7c-c767f8d30abd.png)
 
 * An apartment should have:
   - title
