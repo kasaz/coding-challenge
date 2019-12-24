@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/636075/70719197-d08fc300-1cf1-11ea-9b7c-c767f8d30abd.png" width="360">
   <img src="https://user-images.githubusercontent.com/636075/70722069-ea7fd480-1cf6-11ea-85d4-05d096da5e7f.png" width="360">
 
-
+* Feel free to style it as you wish, no need to make it look like the example above.
 * An apartment should have:
   - title
   - price
@@ -16,7 +16,6 @@
 * Bonus points!
   * Add a picture per listing
   * Add lat/long, search by location (use Google Maps API)
-* Feel free to style it up as you wish, no need to make it look like the example above.
 
 ## Technology and instructions:
 * Backend: Ruby on Rails if you know it, something else otherwise (Node.js, Java, Python…). 
