@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/636075/70719197-d08fc300-1cf1-11ea-9b7c-c767f8d30abd.png" width="360">
   <img src="https://user-images.githubusercontent.com/636075/70722069-ea7fd480-1cf6-11ea-85d4-05d096da5e7f.png" width="360">
 
-* Feel free to style it as you wish, no need to make it look like the example above.
+* Feel free to style it as you wish, try not to make it look like the example above.
 * An apartment should have:
   - title
   - price
@@ -16,15 +16,14 @@
 * Add filters for the search: per price, per sqm, per # of bedrooms… 
 * Bonus points! (not mandatory)
   - Add a left menu you can toggle in/out
-  - Infinite scrolling: When scrolling to the en of the apartments list, it automaticaly loads more appartments
+  - Infinite scrolling: When scrolling to the en of the apartments list, it automaticaly loads more apartments
 
 ## Technology and instructions:
-* Backend: Ruby on Rails if you know it, something else otherwise (Node.js, Java, Python…). 
+* Backend: Ruby on Rails
 * Frontend: React or React Native
-* We encourage you NOT to use create-react-app or similar boilerplate libraries, try to setup React from scratch.
-* **Important**: Build some unit testing on the frontend.
-* Use git, upload it to GitHub/GitLab/Bitbucket/etc or send us the code including the .git folder
-* Add a small setup guide to test the app locally. I would be awesome if you use Docker/Docker Compose
-* Expected delivery time is one week. Please let us know if you need more time
+* **Important**: Build some unit testing on the frontend and backend.
+* Use git, upload it to GitHub/GitLab/Bitbucket/etc or send us the code including the .git folder,
+* Add a small setup guide to test the app locally. I would be awesome if you use Docker/Docker Compose.
+* Expected delivery time is one week. Please let us know if you need more time.
 
 Do contact us for any question, comment or clarification. Good luck and have fun!
