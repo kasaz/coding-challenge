@@ -23,6 +23,7 @@
 * Frontend: React or React Native
 * **Important**: Build some unit testing on the frontend and backend.
 * Use git, upload it to GitHub/GitLab/Bitbucket/etc or send us the code including the .git folder,
+* We should be able to see your entire commit history, not just a dump.
 * Add a small setup guide to test the app locally. I would be awesome if you use Docker/Docker Compose.
 * Expected delivery time is one week. Please let us know if you need more time.
 
